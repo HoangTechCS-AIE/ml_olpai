@@ -1,0 +1,19 @@
+﻿Thuộc tính,Mô tả
+Restaurant_id,Mã định danh duy nhất của quán ăn.
+Restaurant_name,Tên của quán ăn.
+Dish_name,Tên của món ăn.
+Dish_desc,"Mô tả chi tiết về món ăn (ví dụ: thành phần, cách chế biến)."
+Price,Giá của món ăn (đơn vị: VND).
+Num_purchases,Số lượng lượt mua của món ăn trên nền tảng.
+Num_likes,Số lượng lượt thích của món ăn.
+Num_dislikes,Số lượng lượt không thích của món ăn.
+Restaurant_district,Quận nơi quán ăn tọa lạc (trích xuất từ địa chỉ).
+Restaurant_city,Thành phố nơi quán ăn tọa lạc (ví dụ: TP. Hồ Chí Minh).
+Restaurant_address,Địa chỉ đầy đủ của quán ăn.
+Restaurant_rating,Điểm đánh giá trung bình của quán ăn (thang điểm 0–5).
+Num_ratings,Số lượng đánh giá của quán ăn.
+Restaurant_type,"Loại hình quán ăn (ví dụ: quán ăn, nhà hàng, quán cà phê)."
+City_id,Mã định danh của thành phố (ví dụ: SGN cho TP. Hồ Chí Minh).
+Latitude,"Vĩ độ của vị trí quán ăn, cung cấp thông tin không gian."
+Longitude,"Kinh độ của vị trí quán ăn, cung cấp thông tin không gian."
+Avg_price,Giá trung bình của các món ăn tại quán (đơn vị: VND).
